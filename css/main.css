@@ -4,7 +4,7 @@ body {
 }
 
 #main {
-  background-color: #eeeeee;
+  background-color: #eee;
   margin-top: 20px;
   padding-top: 20px;
 }
@@ -16,16 +16,13 @@ p {
 
 #img-div {
   background-color: #fff;
-}
-
-#img-div {
   width: 100%;
   text-align: center;
 }
 
 #image {
-  width: 100%;
-  margin-top: 30px;
+  width: 60%;
+  padding-top: 2em;
 }
 
 #img-caption {
@@ -70,11 +67,6 @@ blockquote {
   text-align: center;
 }
 
-#image {
-  width: 60%;
-  padding-top: 2em;
-}
-
 img {
   max-width: 100%;
   display: block;
@@ -85,7 +77,7 @@ img {
 @media (max-width: 600px) {
   #tribute-info {
     width: 400px;
-    margin: 0px;
+    margin: 0;
     text-align: left;
   }
 
