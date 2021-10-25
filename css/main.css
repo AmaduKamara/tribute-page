@@ -1,0 +1,99 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 0.9rem;
+}
+
+#main {
+  background-color: #eeeeee;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+#main #title,
+p {
+  text-align: center;
+}
+
+#img-div {
+  background-color: #fff;
+}
+
+#img-div {
+  width: 100%;
+  text-align: center;
+}
+
+#image {
+  width: 100%;
+  margin-top: 30px;
+}
+
+#img-caption {
+  padding-bottom: 10px;
+}
+
+#tribute-info {
+  width: 42%;
+  margin: auto;
+  padding-top: 1.5em;
+}
+
+#tribute-info h2 {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 2.5em;
+}
+
+ul {
+  margin-left: 2em;
+}
+
+ul li {
+  margin-bottom: 1.2em;
+}
+
+blockquote {
+  margin-top: 3em;
+  font-style: italic;
+}
+
+#wikiLink {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-top: 3em;
+  padding-bottom: 2em;
+  text-align: left;
+}
+
+#img-div {
+  width: 100vw;
+  text-align: center;
+}
+
+#image {
+  width: 60%;
+  padding-top: 2em;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  #tribute-info {
+    width: 400px;
+    margin: 0px;
+    text-align: left;
+  }
+
+  ul {
+    margin-left: 0;
+  }
+
+  #wikiLink {
+    margin-left: 1.5rem;
+  }
+}
