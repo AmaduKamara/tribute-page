@@ -1,4 +1,4 @@
-# Portfolio: setup and mobile version skeleton
+# Tribute Page: Project from Course Trial Projects.
 
 This is an exercise for setting up a project from the course trial projects
 
