@@ -1,23 +1,21 @@
 body {
   font-family: "Lato", sans-serif;
   font-size: 0.9rem;
-}
-
-#main {
   background-color: #eee;
   margin-top: 20px;
   padding-top: 20px;
 }
 
 header #title,
-p {
+p,
+#img-div,
+#tribute-info h2 {
   text-align: center;
 }
 
 #img-div {
   background-color: #fff;
   width: 100%;
-  text-align: center;
 }
 
 #image {
@@ -37,7 +35,6 @@ p {
 
 #tribute-info h2 {
   font-size: 1.2rem;
-  text-align: center;
   margin-bottom: 2.5em;
 }
 
