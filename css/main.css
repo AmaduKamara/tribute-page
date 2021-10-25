@@ -62,11 +62,6 @@ blockquote {
   text-align: left;
 }
 
-#img-div {
-  width: 100vw;
-  text-align: center;
-}
-
 img {
   max-width: 100%;
   display: block;
